@@ -1,0 +1,68 @@
+h1 {
+    text-align: center;
+    background-color: rgb(19, 26, 36);
+    color: rgb(255, 252, 211);
+}
+
+img{
+    display: block;
+    margin: auto;
+
+}
+
+p {
+    text-align: center;
+    background-color: rgb(19, 26, 36);
+    display: flex;
+    margin-left: 510px;
+    margin-right: 510px;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(19, 26, 36);
+    display: flex;
+    margin-left: 581px;
+    margin-right: 600px;
+}
+
+video{
+    background-color: black;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+head{
+    background-color: rgb(19, 26, 36);
+}
+
+html{
+    background-color: rgb(19, 26, 36);
+    color: rgb(255, 252, 211);
+}
+
+.imagem_lateral{
+display: flex;
+margin-left: 1100px;
+margin-top: 10px;
+}
+
+html{
+    background-image: url(fundo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.banner2{
+    display: flex;
+    margin-top: -9px;
+    display: block;
+    background-color: rgb(19, 26, 36);
+    height: ;
+}
+
+a:hover{
+    size-adjust: 800px;
+    
+}
